@@ -1,0 +1,15 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: ofbsphp**
+
+**Developed by mihir joshi **
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Username: mihir
+Password: Mihir763
+
+
